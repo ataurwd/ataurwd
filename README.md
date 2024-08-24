@@ -1,5 +1,4 @@
-![Masthead Image](https://png.pngtree.com/png-vector/20230502/ourlarge/pngtree-web-development-word-concepts-dark-blue-banner-illustration-digital-technology-vector-png-image_51879156.jpg)
-<h1 align="center">Hi 👋, I'm Ataur Rahman</h1>
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1yV2rsd7npB11ULp5Isaub77wseH2VDu5)
 <h3 align="center">A Passionate Frontend Developer and Experienced CMS Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataurwd&label=Profile%20views&color=0e75b6&style=flat" alt="ataurwd" /> </p>
