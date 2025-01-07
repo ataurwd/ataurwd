@@ -1,4 +1,4 @@
-![Google Drive Image](https://drive.google.com/uc?export=view&id=1yV2rsd7npB11ULp5Isaub77wseH2VDu5)
+![Google Drive Image](https://i.ibb.co.com/NYjvMxR/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 <h3 align="center">A Passionate Frontend Developer and Experienced CMS Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataurwd&label=Profile%20views&color=0e75b6&style=flat" alt="ataurwd" /> </p>
