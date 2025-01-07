@@ -12,9 +12,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at **[www.ataurwd.com](https://www.ataurwd.com)**
-
-- 📝 I regularly write articles on **[https://www.ataurwd.com/about/](https://www.ataurwd.com/about/)**
+- 👨‍💻 All of my projects are available at **[https://ataur-wd.netlify.app/](https://ataur-wd.netlify.app)**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, Vercel, Firebase, JWT, MongoDB**
 
