@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, Vercel, Firebase, JWT, MongoDB**
 
-- 📫 Reach me at **ataurrahmanbro@gmail.com**
+- 📫 Reach me at **ataurrahman24707@gmail.com**
 
 ---
 
