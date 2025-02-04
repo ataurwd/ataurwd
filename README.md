@@ -1,6 +1,6 @@
 ![Google Drive Image](https://i.ibb.co.com/NYjvMxR/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-<h3 align="center">A Passionate Frontend Developer and Experienced CMS Specialist</h3>
+<p align="center">I'm Ataur Rahman Asif, a web developer with expertise in React.js, Node.js, MongoDB, and Tailwind CSS. I specialize in creating dynamic, responsive websites and web applications. Passionate about learning and building innovative solutions, I love tackling new challenges in web development. Let's connect and collaborate!</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ataurwd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
