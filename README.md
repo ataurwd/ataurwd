@@ -7,7 +7,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at **[https://ataur-wd.netlify.app/](https://ataur-wd.netlify.app)**
+- 👨‍💻 All of my projects are available at **[https://next-js-portfolio-five-omega.vercel.app](https://next-js-portfolio-five-omega.vercel.app)**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, Vercel, Firebase, JWT, MongoDB**
 
