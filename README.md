@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=ataurwd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ataurwd&margin-w=15&margin-h=15&column=7&theme=gruvbox" alt="GitHub Trophies" />
-  </a>
-</p>
 
 - 👨‍💻 All of my projects are available at **[https://ataur-wd.netlify.app/](https://ataur-wd.netlify.app)**
 
