@@ -1,4 +1,4 @@
-![Google Drive Image](https://media.licdn.com/dms/image/v2/D5616AQEoSMp6bh_PNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736430276465?e=1749081600&v=beta&t=ZBlabtxgxvLxaPe6hN7Kxy1_Wi2BvjnAivL9pYGpO2E)
+![Profile Banner](https://drive.google.com/uc?export=view&id=156JIVcjaN4pXygcWAbmlIMt_NTr_rQct)
 
 <p align="center">I'm Ataur Rahman Asif, a web developer with expertise in React.js, Node.js, MongoDB, and Tailwind CSS. I specialize in creating dynamic, responsive websites and web applications. Passionate about learning and building innovative solutions, I love tackling new challenges in web development. Let's connect and collaborate!</p>
 
