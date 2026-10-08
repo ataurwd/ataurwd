@@ -29,9 +29,9 @@ const ataur = {
 };
 ```
 
-- 🔭 Currently working on **Junior Web Developer**
-- 🌱 Learning **Next.js & Advanced Backend Technologies**
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
+- 🔭 Currently working on **Software Engineer**
+- 🌱 Learning **Python, Django, FastAPI & Advanced Backend Technologies**
+- 💬 Ask me about **React, Next.JS JavaScript, Node.JS**
 - ⚡ Fun fact: **I turn coffee into code ☕→💻**
 
 ---
@@ -77,9 +77,9 @@ const ataur = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌍 [**VisaGo**](https://github.com/ataurwd/VisaGo-B10A10C) | Modern web app for visa-related services with MongoDB | React, MongoDB, Express |
+| 🌍 [**SparkX**](https://spark-x-frontend.vercel.app/) | A multi-tenant company operating system with real-time dashboards
 | ✈️ [**Treva - Tourism**](https://github.com/ataurwd/Tourist-Client) | Tourism management system for travel planning | React, Node.js, Firebase |
-| 📚 [**BookShop**](https://github.com/ataurwd/Library-Client) | Online platform to explore and purchase books | React, MongoDB, Tailwind |
+| 📚 [**ZEVO**](https://zevo-frontend.vercel.app/) | A multi-vendor e-commerce marketplace with role-based portals for Customers, Merchants, Riders
 | 📖 [**Vocable**](https://github.com/ataurwd/vocable-RR) | Interactive vocabulary learning web app | JavaScript, React, CSS |
 
 </div>
