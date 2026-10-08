@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ataur Rahman
 
-### 🚀 Creative Frontend Developer & CMS Expert
+### 🚀 Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;React+%7C+Tailwind+%7C+JavaScript+Expert;Passionate+About+Clean+Code;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
